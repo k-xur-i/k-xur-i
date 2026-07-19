@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gouri 👋
 
-<!--
-**k-xur-i/k-xur-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student at VIT Vellore, building toward a career in cloud and cybersecurity.
 
-Here are some ideas to get you started:
+- 🔭 Currently building serverless and full-stack projects on AWS
+- ☁️ AWS Certified Cloud Practitioner — working toward AWS AI Practitioner
+- 🧠 Interested in cloud security, event-driven architecture, and automation
+- 💼 Previously interned in IT Consulting at KeyPoint, Bahrain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **[Stratos](https://github.com/k-xur-i/stratos-aws-serverless-weather)** — Serverless real-time weather platform on AWS
+- **[FinTrack](https://github.com/k-xur-i/fintrack)** — Cross-platform desktop expense tracker
+
+📫 Reach me: gouri.dinesh@outlook.com
