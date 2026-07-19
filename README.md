@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gouri%20Dinesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20Cybersecurity%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Gouri%20Dinesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20Cybersecurity%20Engineer&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final-Year+CS+Student+%40+VIT+Vellore;Building+on+AWS+%7C+Cloud+%26+Security+Focused;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
@@ -156,45 +156,6 @@ Conducted ISO compliance assessments and internal audit documentation for enterp
 **Other**
 
 ![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Cyber%20Job%20Simulation-6D28D9?style=flat-square&logo=forage&logoColor=white)
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=k-xur-i&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6D28D9&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=k-xur-i&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-xur-i&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=k-xur-i&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
-<br/>
-
-## 📅 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-xur-i&theme=redical&bg_color=0D1117&color=A78BFA&line=6D28D9&point=ffffff&hide_border=true" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/k-xur-i/k-xur-i/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 <br/>
 
