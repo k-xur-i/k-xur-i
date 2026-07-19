@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Gouri%20Dinesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20Cybersecurity%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=220&section=header&text=Gouri%20Dinesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20%26%20Cybersecurity%20Engineer&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final-Year+CS+Student+%40+VIT+Vellore;Building+on+AWS+%7C+Cloud+%26+Security+Focused;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
